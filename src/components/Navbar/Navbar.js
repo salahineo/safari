@@ -47,12 +47,12 @@ const Navbar = () => {
               <Link to="/products" className="navbar-link" onClick={closeMobileMenu}>Products</Link>
             </li>
             <li className="navbar-item">
-              <Link to="/sign-up" className="navbar-link-mobile" onClick={closeMobileMenu}>Sign Up</Link>
+              <Link to="/signup" className="navbar-link-mobile" onClick={closeMobileMenu}>Sign Up</Link>
             </li>
           </ul>
           {
             button &&
-            <Link to="/sign-up"><Button buttonStyle="btn--outline" buttonSize="btn--medium">Sign Up</Button></Link>
+            <Link to="/signup"><Button buttonStyle="btn--outline" buttonSize="btn--medium">Sign Up</Button></Link>
           }
         </div>
       </nav>
