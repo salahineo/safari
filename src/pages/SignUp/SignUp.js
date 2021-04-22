@@ -6,7 +6,7 @@ const SignUp = () => {
       backgroundImage: `url('/images/img-8.jpg')`
     }}>
       <div className="sign-up-content">
-        <h3>Sign Up</h3>
+        <h3>SIGN UP</h3>
       </div>
     </div>
   );

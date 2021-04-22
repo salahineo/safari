@@ -20,7 +20,7 @@ const Footer = () => {
           You can subscribe any time
         </p>
         <div className="input-areas">
-          <form>
+          <form onSubmit={(e) => e.preventDefault()}>
             <input className="footer-input" type="email" name="email" placeholder="Your Email" />
             <Button buttonStyle="btn--outline">Subscribe</Button>
           </form>

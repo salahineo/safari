@@ -6,7 +6,7 @@ const Services = () => {
       backgroundImage: `url('/images/img-2.jpg')`
     }}>
       <div className="services-content">
-        <h3>Services</h3>
+        <h3>SERVICES</h3>
       </div>
     </div>
   );
