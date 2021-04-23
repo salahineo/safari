@@ -2,7 +2,7 @@ import React from "react";
 import './Cards.css'
 import CardItem from "./CardItem";
 
-const Cards = () => {
+const HomeCards = () => {
   return (
     <div className="cards">
       <h2>Check Out These EPIC Destinations!</h2>
@@ -23,4 +23,4 @@ const Cards = () => {
   )
 };
 
-export default Cards;
+export default HomeCards;

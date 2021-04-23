@@ -1,14 +1,13 @@
 import React from "react";
+import ProductsHero from "../../components/Hero/ProductsHero";
+import ProductsCards from "../../components/Cards/ProductsCards";
 
 const Products = () => {
   return (
-    <div className="products" style={{
-      backgroundImage: `url('/images/img-9.jpg')`
-    }}>
-      <div className="products-content">
-        <h3>PRODUCTS</h3>
-      </div>
-    </div>
+    <React.Fragment>
+      <ProductsHero />
+      <ProductsCards />
+    </React.Fragment>
   );
 };
 

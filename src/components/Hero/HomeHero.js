@@ -2,7 +2,7 @@ import React from "react";
 import {Button} from "../Button/Button";
 import "./Hero.css";
 
-const Hero = () => {
+const HomeHero = () => {
   return (
     <div className="hero" style={{
       background: `url('/images/img-home.jpg') center center/cover no-repeat`
@@ -21,4 +21,4 @@ const Hero = () => {
   );
 };
 
-export default Hero;
+export default HomeHero;
