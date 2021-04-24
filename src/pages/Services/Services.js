@@ -1,14 +1,13 @@
 import React from "react";
+import ServicesHero from "../../components/Hero/ServicesHero";
+import ServicesCards from "../../components/Cards/Services Cards";
 
 const Services = () => {
   return (
-    <div className="services" style={{
-      backgroundImage: `url('/images/img-2.jpg')`
-    }}>
-      <div className="services-content">
-        <h3>SERVICES</h3>
-      </div>
-    </div>
+    <React.Fragment>
+      <ServicesHero />
+      <ServicesCards />
+    </React.Fragment>
   );
 };
 

@@ -1,14 +1,13 @@
 import React from "react";
+import SignUpHero from "../../components/Hero/SignUpHero";
+import Form from "../../components/Form/Form";
 
 const SignUp = () => {
   return (
-    <div className="sign-up" style={{
-      backgroundImage: `url('/images/img-8.jpg')`
-    }}>
-      <div className="sign-up-content">
-        <h3>SIGN UP</h3>
-      </div>
-    </div>
+    <React.Fragment>
+      <SignUpHero />
+      <Form />
+    </React.Fragment>
   );
 };
 
