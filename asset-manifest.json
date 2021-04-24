@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/safari/static/css/main.fcffaf8b.chunk.css",
-    "main.js": "/safari/static/js/main.f76ebaca.chunk.js",
-    "main.js.map": "/safari/static/js/main.f76ebaca.chunk.js.map",
+    "main.js": "/safari/static/js/main.3de516a3.chunk.js",
+    "main.js.map": "/safari/static/js/main.3de516a3.chunk.js.map",
     "runtime-main.js": "/safari/static/js/runtime-main.0a6178ed.js",
     "runtime-main.js.map": "/safari/static/js/runtime-main.0a6178ed.js.map",
     "static/js/2.fdbb3813.chunk.js": "/safari/static/js/2.fdbb3813.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.0a6178ed.js",
     "static/js/2.fdbb3813.chunk.js",
     "static/css/main.fcffaf8b.chunk.css",
-    "static/js/main.f76ebaca.chunk.js"
+    "static/js/main.3de516a3.chunk.js"
   ]
 }
