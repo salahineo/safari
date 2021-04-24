@@ -5,7 +5,7 @@ import "./Hero.css";
 const HomeHero = () => {
   return (
     <div className="hero" style={{
-      background: `url('/images/img-home.jpg') top center/cover no-repeat`
+      background: `url('images/img-home.jpg') top center/cover no-repeat`
     }}>
       <div className="hero-content">
         <h1>ADVENTURES AWAITS</h1>
