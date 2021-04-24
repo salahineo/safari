@@ -4,6 +4,7 @@ import {Button} from "../Button/Button";
 import "./Footer.css";
 
 const Footer = () => {
+  // Get Current Footer Year
   const [year, setYear] = useState("");
   useEffect(() => {
     const currentData = new Date();

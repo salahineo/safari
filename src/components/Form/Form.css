@@ -24,12 +24,22 @@
 
 .user-form label {
   display: block;
-  margin: 20px 0 8px
+  margin: 20px 0 8px;
+  position: relative;
+}
+
+.user-form label:after {
+  content: '*';
+  position: absolute;
+  bottom: -45px;
+  right: 8px;
+  font-size: 20px;
+  color: #ff4646;
 }
 
 .user-form input {
   outline: none;
-  padding: 8px 12px;
+  padding: 8px 20px 8px 12px;
   border: 1px solid #cccccc;
   border-radius: 3px;
   display: block;
@@ -57,3 +67,5 @@
 .user-form input[type='submit']:hover {
   opacity: 0.9;
 }
+
+

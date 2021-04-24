@@ -8,20 +8,20 @@ const Form = () => {
       <div className="form-group">
         <div className="group">
           <label htmlFor="first-name">First Name</label>
-          <input id="first-name" type="text" />
+          <input id="first-name" type="text" required />
         </div>
         <div className="group">
           <label htmlFor="last-name">Last Name</label>
-          <input id="last-name" type="text" />
+          <input id="last-name" type="text" required />
         </div>
       </div>
       <div className="group">
         <label htmlFor="email">Email</label>
-        <input id="email" type="email" />
+        <input id="email" type="email" required />
       </div>
       <div className="group">
         <label htmlFor="password">Password</label>
-        <input id="password" type="password" />
+        <input id="password" type="password" required />
       </div>
       <input type="submit" value="Register" />
     </form>
