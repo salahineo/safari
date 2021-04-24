@@ -1,5 +1,5 @@
 import React from "react";
-import {BrowserRouter as Router, Route, Switch} from "react-router-dom";
+import {HashRouter as Router, Route, Switch} from "react-router-dom";
 import "./App.css";
 import ScrollToTop from "./helpers/ScrollToTop";
 import Navbar from "./components/Navbar/Navbar";
