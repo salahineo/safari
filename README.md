@@ -52,7 +52,7 @@ Here are the guidelines to run this project on your localhost (you should instal
 - JavaScript
 - ReactJS
 
-> This application is fully responsive
+> This project is fully responsive
 
 ### Contact
 
