@@ -32,7 +32,7 @@ Here are some ideas to benefit from this project:
 
 ### Demo
 
-Here is the demo of this [application](https://salahineo.github.io/safari/)
+Here is the demo of this [project](https://salahineo.github.io/safari/)
 
 ### Installation
 
