@@ -21,7 +21,7 @@ const Footer = () => {
         </p>
         <div className="input-areas">
           <form onSubmit={(e) => e.preventDefault()}>
-            <input className="footer-input" type="email" name="email" placeholder="Your Email" />
+            <input className="footer-input" type="email" name="footer-email" placeholder="Your Email" />
             <Button buttonStyle="btn--outline">Subscribe</Button>
           </form>
         </div>
