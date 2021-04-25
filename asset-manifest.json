@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/safari/static/css/main.15514f8f.chunk.css",
+    "main.css": "/safari/static/css/main.04aee7f3.chunk.css",
     "main.js": "/safari/static/js/main.fa9b3d2e.chunk.js",
     "main.js.map": "/safari/static/js/main.fa9b3d2e.chunk.js.map",
     "runtime-main.js": "/safari/static/js/runtime-main.0a6178ed.js",
@@ -8,13 +8,13 @@
     "static/js/2.fdbb3813.chunk.js": "/safari/static/js/2.fdbb3813.chunk.js",
     "static/js/2.fdbb3813.chunk.js.map": "/safari/static/js/2.fdbb3813.chunk.js.map",
     "index.html": "/safari/index.html",
-    "static/css/main.15514f8f.chunk.css.map": "/safari/static/css/main.15514f8f.chunk.css.map",
+    "static/css/main.04aee7f3.chunk.css.map": "/safari/static/css/main.04aee7f3.chunk.css.map",
     "static/js/2.fdbb3813.chunk.js.LICENSE.txt": "/safari/static/js/2.fdbb3813.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.0a6178ed.js",
     "static/js/2.fdbb3813.chunk.js",
-    "static/css/main.15514f8f.chunk.css",
+    "static/css/main.04aee7f3.chunk.css",
     "static/js/main.fa9b3d2e.chunk.js"
   ]
 }
