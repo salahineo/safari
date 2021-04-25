@@ -78,6 +78,10 @@ video {
   .hero .hero-content > p {
     font-size: 30px;
   }
+  
+  .hero .hero-content > h3 {
+    font-size: 60px;
+  }
 
   .btn-mobile {
     display: block;
