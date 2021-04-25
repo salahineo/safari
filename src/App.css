@@ -36,6 +36,13 @@
   z-index: 3;
 }
 
+.services .services-content h3,
+.products .products-content h3,
+.sign-up .sign-up-content h3 {
+  font-size: 60px
+}
+
+
 .services {
   background-position: center;
   background-size: cover;
