@@ -4,7 +4,7 @@ import "./Hero.css";
 const ProductsHero = () => {
   return (
     <div className="products" style={{
-      backgroundImage: `url('images/img-9.jpg')`
+      backgroundImage: `url('${process.env.PUBLIC_URL}/images/img-9.jpg')`
     }}>
       <div className="products-content">
         <h3>PRODUCTS</h3>
