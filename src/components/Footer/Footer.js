@@ -65,27 +65,7 @@ const Footer = () => {
       <section className="social-media">
         <div className="social-media-wrap">
           <div className="copyrights">
-            &copy; <span className="current-year">{year}</span> | <span className="author">Mohamed Salah</span>
-          </div>
-          <div className="social-icons">
-            <a href="https://github.com/salahineo" target="_blank" rel="noreferrer">
-              <i className="fab fa-github" />
-            </a>
-            <a href="https://www.linkedin.com/in/salahineo/" target="_blank" rel="noreferrer">
-              <i className="fab fa-linkedin-in" />
-            </a>
-            <a href="https://twitter.com/salahineo" target="_blank" rel="noreferrer">
-              <i className="fab fa-twitter" />
-            </a>
-            <a href="https://www.facebook.com/salahineo/" target="_blank" rel="noreferrer">
-              <i className="fab fa-facebook-f" />
-            </a>
-            <a href="https://salahineo.github.io/salahineo/" target="_blank" rel="noreferrer">
-              <i className="fas fa-globe-africa" />
-            </a>
-            <a href="mailto:salahineo.work@gmail.com" target="_blank" rel="noreferrer">
-              <i className="fas fa-envelope" />
-            </a>
+            &copy; <span className="current-year">{year}</span> | <a href='https://salahineo.com' target="_blank" rel="noopener noreferrer" className="author">Mohamed Salah</a>
           </div>
         </div>
       </section>
